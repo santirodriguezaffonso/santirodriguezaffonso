@@ -6,7 +6,7 @@ Finally, I think I’m a passionate about tech.
 
 ## AboutMe_
 
-Hi, I’m @santirodriguezaffonso I used to be an advanced law student but I decided to make a change in my career. 
+I’m @santirodriguezaffonso I used to be an advanced law student but I decided to make a change in my career. 
 Since I was a kid I’ve been in touch with computers –my first one was a Win. 95– but for some reason I ended up studying law –*"You will be what you must to be or you will be a lawyer"*–. 
 After five years of studying, trough my friends and my own research I discovered what programming really was. So I decided to go deeper into the IT world.
 
