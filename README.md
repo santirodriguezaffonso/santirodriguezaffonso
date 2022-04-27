@@ -1,8 +1,7 @@
 ## Profile_
-An iOS developer in process and amateur rugby player, what a mix! 🤪. 
-I consider myself a person who is always looking for new knowledge. 
-Asking to people about issues and solutions. Strongly principled and always trying to be more intellectually honest than yesterday. 
-Finally, I think I’m a passionate about tech.
+Legal Analyst transitioned into iOS Developer. 
+I consider myself a person who is always looking for new knowledge. Asking people about issues and solutions –critical & analytical thinking–. 
+Strongly principled and always trying to be more intellectually honest than yesterday. Finally, I think I’m passionate about tech.
 
 ## AboutMe_
 
