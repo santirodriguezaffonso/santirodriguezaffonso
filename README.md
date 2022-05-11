@@ -10,7 +10,7 @@ After five years of studying, through my friends and my own research, I discover
 
 I started looking for information about different technologies, and I decided on a position that intrigued me from the beginning “iOS Developer” –I’m a great Apple fan, his software and hardware–.
 
-Finally in 2022, with a great desire to learn, I began to take my first steps to reach my goal, to become an iOS developer. Currently, I’m doing an intensive training “iOS & Swift Development Bootcamp” in Udemy –programming principles, Swift, UIKit/SwiftUI, architect patterns MVC/MVVM, UI principles, etc–. Giving place to a professional transformation and looking for a road in the IT world
+Finally in 2022, with a great desire to learn, I began to take my first steps to reach my goal, to become an iOS developer. Currently, I’m doing an intensive training “iOS & Swift App Development Bootcamp” in Udemy. Giving place to a professional transformation and looking for a road in the IT world
 
 
 
