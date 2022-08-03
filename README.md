@@ -11,9 +11,9 @@ After five years of studying, through my friends and my own research, I discover
 I started looking for information about different technologies, and I decided on a position that intrigued me from the beginning “iOS Developer” –'cause I’m a great Apple fan, his software and hardware is magnificent–.
 
 Finally in 2022, with a great desire to learn, I began to take my first steps to reach my goal, to become an iOS developer 📚💻      
-Currently, I’m doing a certification in ["Fundamentals of Programming" - UTN.BA](https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/338/fundamentos-de-la-programacion?id=999188122) and I already have my ["Scrum Fundamentals Certified" from ScrumStudy](https://www.scrumstudy.com/certification/verify?type=SFC&number=920503) and the certificate of [“iOS & Swift App Development Bootcamp” - Udemy](https://www.udemy.com/course/ios-13-app-development-bootcamp/).
+I already achieved my ["Scrum Fundamentals Certified" from ScrumStudy](https://www.scrumstudy.com/certification/verify?type=SFC&number=920503) and the certificate of completion in [“iOS & Swift App Development Bootcamp” - Udemy](https://www.udemy.com/course/ios-13-app-development-bootcamp/). Currently, I’m doing a certification in ["Fundamentals of Programming" - UTN.BA](https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/338/fundamentos-de-la-programacion?id=999188122).
 
-On the other hand, I've been working as Junior Mobile Developar at [IT Crowd Arg](https://www.itcrowdarg.com) since July 2022 🙌🏻
+On the other hand, I've been working as ***Junior Mobile Developer*** at [IT Crowd Arg](https://www.itcrowdarg.com) since July 2022 🙌🏻
 
 **_This is about professional transformation and finding my road in the IT world ✨_**
 
