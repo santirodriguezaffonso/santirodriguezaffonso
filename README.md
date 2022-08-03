@@ -1,7 +1,7 @@
 ## Profile_
 Legal Analyst transitioned into iOS Developer. 
 I consider myself a person who is always looking for new knowledge. Asking people about issues and solutions –critical & analytical thinking–. 
-Strongly principled and always trying to be more intellectually honest than yesterday. I’m a passionate about tech.
+Strongly principled and always trying to be more intellectually honest than yesterday. I’m passionate about tech.
 
 ## AboutMe_
 
@@ -12,9 +12,10 @@ I started looking for information about different technologies, and I decided on
 
 Finally in 2022, with a great desire to learn, I began to take my first steps to reach my goal, to become an iOS developer 📚💻      
 Currently, I’m doing a certification in ["Fundamentals of Programming" - UTN.BA](https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/338/fundamentos-de-la-programacion?id=999188122) and I already have my ["Scrum Fundamentals Certified" from ScrumStudy](https://www.scrumstudy.com/certification/verify?type=SFC&number=920503) and the certificate of [“iOS & Swift App Development Bootcamp” - Udemy](https://www.udemy.com/course/ios-13-app-development-bootcamp/).
-On the other hand, I've started working as Junior Mobile Developar at @itcrowdarg
 
-**_This is about professional transformation and looking for a road in the IT world ✨_**
+On the other hand, I've been working as Junior Mobile Developar at [IT Crowd Arg](https://www.itcrowdarg.com) since July 2022 🙌🏻
+
+**_This is about professional transformation and finding my road in the IT world ✨_**
 
 ### Skills_
 
