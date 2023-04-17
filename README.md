@@ -14,7 +14,7 @@ I already achieved my ["Scrum Fundamentals Certified" from ScrumStudy](https://w
 
 On the other hand, I've been working as ***Junior Mobile Developer*** at [IT Crowd Arg](https://www.itcrowdarg.com) since July 2022 🙌🏻
 
-**_This is about professional transformation and finding my road in the IT world ✨_**
+**_This is about professional transformation and finding my road ✨_**
 
 ## Languages&Tools_
 <p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
