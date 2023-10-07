@@ -1,5 +1,4 @@
 ## Profile_
-Legal Analyst transitioned into iOS Developer. 
 I consider myself a person who is always looking for new knowledge. Asking people about issues and solutions –critical & analytical thinking–. 
 Strongly principled and always trying to be more intellectually honest than yesterday. I’m passionate about tech.
 
