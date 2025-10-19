@@ -1,6 +1,7 @@
 ## Profile_
-I consider myself a person who is always looking for new knowledge. Asking people about issues and solutions –critical & analytical thinking–. 
-Strongly principled and always trying to be more intellectually honest than yesterday. I’m passionate about tech.
+I’m an experienced mobile developer with expertise in mobile app development, architecture, and best practices.  
+My tech stack includes **React Native**, **TypeScript**, **Expo**, **Swift**, and CI/CD tooling.  
+I’m passionate about problem-solving, collaboration, and creating innovative solutions that make a real impact.
 
 ## AboutMe_
 👋🏻 I'm @santirodriguezaffonso I used to be an advanced law student but I decided to make a change in my career. Since I was a kid I’ve been in touch with computers –my first one was a Win. 95– but for some reason, I ended up studying law –"You will be what you must be or you will be a lawyer"–. 
