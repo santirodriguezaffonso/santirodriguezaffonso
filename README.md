@@ -13,7 +13,7 @@ Finally in 2022, with a great desire to learn, I began to take my first steps to
 
 On July 2022, I started working as **Junior Mobile Developer** at [IT Crowd](https://www.www.itcrowd.dev) 🙌🏻
 
-## Languages&Tools_
+## Languages & Tools_
 <p align="left">
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
@@ -32,8 +32,8 @@ On July 2022, I started working as **Junior Mobile Developer** at [IT Crowd](htt
   
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
-  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santirodriguezaffonso&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="santirodriguezaffonso" /></p>
+
+![santirodriguezaffonso's Streak](https://github-readme-streak-stats.herokuapp.com/?user=santirodriguezaffonso&theme=default&hide_border=true)
 
 
 <!---
